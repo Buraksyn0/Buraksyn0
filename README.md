@@ -90,7 +90,7 @@
 ---
 
 ### 🎬 Featured Projects
-- 🎥 [İzleCine](https://github.com/buraksayan/izlecine) – Movie App built with **React, Node.js, MongoDB**
+- 🎥 [İzleCine](https://github.com/Buraksyn0/izlecine) – Movie App built with **React, Node.js, MongoDB**
 
 #### 🚧 Coming Soon
 > 🎯 Working on new React Native and AI-based projects — stay tuned for upcoming releases!
@@ -99,22 +99,22 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=buraksayan&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Buraksyn0&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buraksayan&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buraksayan&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Buraksyn0&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buraksyn0&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
 
 ---
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buraksayan&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Buraksyn0&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
