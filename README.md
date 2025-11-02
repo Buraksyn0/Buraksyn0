@@ -1,24 +1,33 @@
-### Hi there 👋, I’m Burak 🧑🏽‍💻  
+<!-- 💻 BURAK SAYAN - GITHUB PROFILE README -->
 
----
-
-💡 **About Me**  
-- 🔭 I'm currently working on **React Native**  
-- 🌱 I'm currently learning **React Native, Python, SQL, and Data Science**  
-- 📫 How to reach me: **sayannburakks@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/buraksayan)
-
----
-
-### 📊 GitHub Stats
+<!-- 🧠 Typing Animation -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Buraksyn0&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buraksyn0&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Burak+🧑🏽‍💻;React+Native+Developer;Data+Science+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-### 🧠 Languages and Tools
+### 💫 About Me
+
+- 🔭 I'm currently working on **React Native**
+- 🌱 I'm currently learning **React Native, Python, SQL, and Data Science**
+- 💼 I love combining **mobile development** and **AI-driven insights**
+- 📫 Reach me at **sayannburakks@gmail.com**
+- 🌐 [LinkedIn](https://www.linkedin.com/in/buraksayan)
+
+---
+
+### 🧠 Tech Stack
+#### 💼 Tech Focus
+- 📱 **Mobile Development:** React Native, Flutter, Firebase  
+- 🧠 **Data Science:** Python (Pandas, NumPy, Scikit-learn), SQL  
+- ⚙️ **Backend:** Node.js, MongoDB  
+
+---
+
+### 🧩 Languages and Tools
 <p align="center">
 
   <!-- JavaScript -->
@@ -77,6 +86,37 @@
   </a>
 
 </p>
+
+---
+
+### 🎬 Featured Projects
+- 🎥 [İzleCine](https://github.com/buraksayan/izlecine) – Movie App built with **React, Node.js, MongoDB**
+
+#### 🚧 Coming Soon
+> 🎯 Working on new React Native and AI-based projects — stay tuned for upcoming releases!
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=buraksayan&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=buraksayan&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buraksayan&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buraksayan&theme=react-dark&hide_border=true&area=true" />
+</p>
+
 ---
 
 ### 📫 Connect with Me
@@ -90,6 +130,10 @@
 </p>
 
 ---
+
+### 💬 Quote
+> “Code is like humor. When you have to explain it, it’s bad.”  
+> — *Cory House*
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=buraksayan&style=flat-square&color=blue" alt="profile views"/>
