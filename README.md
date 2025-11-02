@@ -2,11 +2,8 @@
 
 <!-- 🧠 Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Burak+🧑🏽‍💻;React+Native+Developer;Data+Science+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Burak+🧑🏽‍💻;React+Native+Developer;Data+Science+Enthusiast;Always+Learning+New+Things!" alt="Typing Animation" />
 </p>
-
 ---
 
 ### 💫 About Me
