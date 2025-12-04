@@ -23,7 +23,7 @@
 
 ### 🧠 Tech Stack
 #### 💼 Tech Focus
-- 📱 **Mobile Development:** React Native, Flutter, Firebase  
+- 📱 **Mobile Development:** React Native,Firebase  
 - 🧠 **Data Science:** Python (Pandas, NumPy, Scikit-learn), SQL  
 - ⚙️ **Backend:** Node.js, MongoDB  
 
