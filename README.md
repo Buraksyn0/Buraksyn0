@@ -116,7 +116,7 @@
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Buraksyn0&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://ghchart.rshah.org/Buraksyn0" alt="Burak's GitHub Contribution Chart" />
 </p>
 
 ---
